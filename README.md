@@ -14,7 +14,7 @@ To install the bootable version of Ad Show you need
     - If using a desktop HDD; which is not recommended, you NEED a powered adapter
     - Do NOT use a USB drive as it will be SLOW (except for high performance USB drives)
   
-* 1x SATA SSD (highly recommended), 1x HDD (not recommended), OR one NVME drive.
+* 1x SATA SSD (highly recommended), 1x HDD (not recommended), OR one NVME drive (also recommended).
 * 2x Computer
 * 1x Ad Show bootable ISO
 * 2x Technical Experience 
