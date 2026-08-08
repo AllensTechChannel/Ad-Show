@@ -22,9 +22,9 @@ A program coded in python to show digital signage. Uses Tinker and Pillow
 ### Install Ad Show
 
 * Download the Ad Show Bootable ISO from Google Drive
-* 
+  
 * Use a tool like [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io/) to write the ISO to your storage device.
     - If your storage device doesn't show up in Rufus, in the "Show advanced hard drive properties" drop down menu, click "List USB Hard Drives"
-* 
+  
 * Once you're done writing the ISO, install your storage device into the computer you will be using to display your digital signage.  
 
