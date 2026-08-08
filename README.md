@@ -7,7 +7,7 @@ A program coded in python to show digital signage. Uses Tinker and Pillow
 
 # Instructions
 
-To install the bootable version of Ad Show you need
+### Parts Needed
 
 * 1x USB to SATA Adapter OR 1x NVME to USB adapter. 
     - **MAKE SURE TO PICK THE RIGHT STORAGE DEVICE DEPENDING ON THE COMPUTER YOU WILL BE INSTALLING TO** (example, don't buy a NVME for a computer from 2009)
@@ -18,3 +18,4 @@ To install the bootable version of Ad Show you need
 * 2x Computer
 * 1x Ad Show bootable ISO
 * 2x Technical Experience 
+
