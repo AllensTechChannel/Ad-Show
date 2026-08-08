@@ -26,5 +26,15 @@ A program coded in python to show digital signage. Uses Tinker and Pillow
 * Use a tool like [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io/) to write the ISO to your storage device.
     - If your storage device doesn't show up in Rufus, in the "Show advanced hard drive properties" drop down menu, click "List USB Hard Drives"
   
-* Once you're done writing the ISO, install your storage device into the computer you will be using to display your digital signage.  
+* Once you're done writing the ISO, install your storage device into the computer you will be using to display your digital signage.
+
+* Turn on the computer
+
+* Wait for Microslop Windows to install drivers and configure your hardware.
+
+* Once completed, Windows will automatically sign in to the "Digital Signage User" and display the Ad Show app. Initially, it will show it's stored sample images.
+
+### Configure Windows and Ad Show
+* To configure Windows, press control+L to log out of the Digital Signage User and login to the Device Administrator account.
+* Open the Instructions text file and follow the steps shown there.  
 
