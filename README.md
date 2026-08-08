@@ -23,8 +23,9 @@ A program coded in python to show digital signage. Uses Tinker and Pillow
 
 * Download the Ad Show Bootable ISO from the [Google Drive link](https://drive.google.com/drive/folders/1CGUR_8_I5ZCaCm_1vcqnzbOrTLVlaqXe?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto) provided. 
   
-* Use a tool like [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io/) to write the ISO to your storage device.
+* Use [Rufus](https://rufus.ie) to write the ISO to your storage device.
     - If your storage device doesn't show up in Rufus, in the "Show advanced hard drive properties" drop down menu, click "List USB Hard Drives"
+    - ************SELECT WINDOWS TO GO INSTEAD OF STANDARD WINDOWS INSTALLATION************
   
 * Once you're done writing the ISO, install your storage device into the computer you will be using to display your digital signage.
 
